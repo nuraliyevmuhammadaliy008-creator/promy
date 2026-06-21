@@ -1,0 +1,6 @@
+{
+  "name": "UZ POS PRO",
+  "description": "Professional va sotiladigan Restaurant POS SaaS tizimi. Stol, mahsulot va buyurtmalarni boshqarish, real vaqtda tushumlar tahlili hamda har bir kafe uchun alohida lokal ma'lumotlar bazasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
